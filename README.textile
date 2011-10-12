@@ -1,0 +1,12 @@
+h1. HashToArray 
+
+Simple library that converts a nested hash (or a non-nested hash) to two arrays.
+One array contains the hash keys and the other hash contains the hash values.
+
+h3. Usage
+
+Check out test.rb
+
+h3. License
+
+(c) 2011 Chris Parker, released under the MIT license
