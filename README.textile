@@ -7,6 +7,10 @@ This is meant to be an example of how to create a C extension for ruby.
 
 h3. Usage
 
+ruby extconf.rb
+make
+ruby test.rb
+
 Check out test.rb
 
 h3. License
