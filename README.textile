@@ -3,6 +3,8 @@ h1. HashToArray
 Simple library that converts a nested hash (or a non-nested hash) to two arrays.
 One array contains the hash keys and the other hash contains the hash values.
 
+This is meant to be an example of how to create a C extension for ruby.
+
 h3. Usage
 
 Check out test.rb
