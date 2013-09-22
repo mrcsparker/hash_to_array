@@ -15,4 +15,4 @@ Check out test.rb
 
 h3. License
 
-(c) 2011 Chris Parker, released under the MIT license
+(c) 2011-2013 Chris Parker, released under the MIT license

@@ -1,4 +1,4 @@
-require 'hash_to_array'
+require './hash_to_array'
 
 h = { 
   :outer_key => { :inner_key => "inner text" }, 
